@@ -1,20 +1,4 @@
-# Data Engineer, Web Scraping & SQL Challenge
-
-# Concluídos
-- [X] 1 - Imprima seu nome completo utilizando Python
-- [X] 2 - Criação de um novo arquivo processado
-- [X] 3 - Ler arquivo e imprimir informações na tela
-    - [X] 3.1
-    - [X] 3.2
-- [X] 4 - Lógica de programação
-- [ ] 5 - Web Scraping
-    - [ ] 5.1
-    - [X] 5.2
-- [X] 6 - Gravar arquivos em uma tabela de banco de dados
-- [X] 7 - Query 1
-- [X] 8 - Query 2
-- [X] 9 - Query 3
-- [X] 10 - Query 4
+# Full Data Engineer Test: Python, SQL and Web Scraping
 
 # Teste Python
 
