@@ -2,7 +2,7 @@
 
 # Electoral Donations Brazil
 
-This repository is a test to assume the position of Full Data Engineer. In order to answer some questions and extract some insights about the Brazil electoral dataset
+This repository is a test to assume the position of Data Engineer. In order to answer some questions and extract some insights about the Brazil electoral dataset
 donations, transformations and data summarizations were performed, as well as the creation of a loading pipeline.
 
 Data source: https://www.kaggle.com/felipeleiteantunes/electoral-donations-brazil2014
