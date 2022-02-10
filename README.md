@@ -1,4 +1,5 @@
 [![Open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gprzy/electoral-donations-brazil/blob/main/electoral_donations_brazil.ipynb)
+[![GitHub license](https://img.shields.io/github/license/microsoft/ML-For-Beginners.svg)](https://github.com/gprzy/electoral-donations-brazil/blob/main/LICENSE)
 
 # Electoral Donations Brazil
 
